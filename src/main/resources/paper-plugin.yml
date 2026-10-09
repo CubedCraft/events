@@ -1,0 +1,5 @@
+name: Events
+version: '1.0'
+main: com.cubedcraft.events.Events
+api-version: '26.2'
+authors: [ CubedCraft ]
